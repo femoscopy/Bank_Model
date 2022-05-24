@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+div.balance {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: white;
+}
+
+div#actions {
+    text-align: center;
+}
+
+.button1 {
+    text-align: center;
+    width: 150px;
+    height: 60px;
+    border: 0px;
+    font-size: 15px;
+    opacity: 0.8;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.button1:hover{
+    opacity: 1;
+  
+    
+}
+
+.container {
+    background: url("../image/register.jpeg");
+    height:100vh !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0px;
+}
+.body{
+    background-image:url(/image/bankpic.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.container2{
+    margin-top: 200px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto !important;
+    padding: 10px !important;
+    background-color: rgba(0, 0, 0, 0.658);
+   width: 600px;
+   height: 300px;
+   border-radius: 10px;
+
+   
+}
+.container2 h1,p {
+    text-align:center;
+    color: whitesmoke;
+}
+
+
+
+
